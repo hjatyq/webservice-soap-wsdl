@@ -23,3 +23,12 @@ Ce projet illustre l'implémentation de services web SOAP utilisant **JAX-WS**. 
 - Un serveur d'applications tel que **Apache Tomcat** ou **GlassFish**.
 - **Maven** installé et configuré.
 
+<h1>Captures</h1>
+<img src="Captures/1.png">
+<img src="Captures/2.png">
+<img src="Captures/3.png">
+<img src="Captures/4.png">
+<img src="Captures/5.png">
+<img src="Captures/6.png">
+<img src="Captures/7.png">
+<img src="Captures/8.png">
