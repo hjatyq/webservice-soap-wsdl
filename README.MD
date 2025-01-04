@@ -13,14 +13,12 @@ Ce projet illustre l'implémentation de services web SOAP utilisant **JAX-WS**. 
 - **Java** : Langage principal.
 - **JAX-WS** : API pour les services web SOAP.
 - **WSDL** : Description du service.
-- **Apache Tomcat** : Serveur d'applications (ou tout autre serveur si applicable).
 - **Maven** : Gestionnaire de dépendances.
 
 ## Installation et exécution
 
 ### Prérequis
 - **Java JDK** (version 17 ou supérieure).
-- Un serveur d'applications tel que **Apache Tomcat** ou **GlassFish**.
 - **Maven** installé et configuré.
 
 <h1>Captures</h1>
