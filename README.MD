@@ -24,11 +24,11 @@ Ce projet illustre l'implémentation de services web SOAP utilisant **JAX-WS**. 
 - **Maven** installé et configuré.
 
 <h1>Captures</h1>
-<img src="Captures/1.png">
-<img src="Captures/2.png">
-<img src="Captures/3.png">
-<img src="Captures/4.png">
-<img src="Captures/5.png">
-<img src="Captures/6.png">
-<img src="Captures/7.png">
-<img src="Captures/8.png">
+<img src="Captures/1.PNG" alt="CAP1">
+<img src="Captures/2.PNG" alt="CAP1">
+<img src="Captures/3.PNG" alt="CAP1">
+<img src="Captures/4.PNG" alt="CAP1">
+<img src="Captures/5.PNG" alt="CAP1">
+<img src="Captures/6.PNG" alt="CAP1">
+<img src="Captures/7.PNG" alt="CAP1">
+<img src="Captures/8.PNG" alt="CAP1">
