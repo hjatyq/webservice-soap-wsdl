@@ -8,12 +8,15 @@ Ce projet illustre l'implémentation de services web SOAP utilisant **JAX-WS**. 
 - Déploiement d'un service web dans un environnement local.
 - Exemple d'un client SOAP consommant le service.
 - Documentation et gestion des exceptions SOAP.
+- Tester le service web dans un environnement SOAPUI.
+
 
 ## Technologies utilisées
 - **Java** : Langage principal.
 - **JAX-WS** : API pour les services web SOAP.
 - **WSDL** : Description du service.
 - **Maven** : Gestionnaire de dépendances.
+- **SoapUI** :Un outil de test de services Web.
 
 ## Installation et exécution
 
